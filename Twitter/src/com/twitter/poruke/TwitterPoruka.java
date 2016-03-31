@@ -2,7 +2,7 @@ package com.twitter.poruke;
 
 /**
  * Ovo je klasa koja predstavlja poruku na Twitteru.
- * @author Djole
+ * @author Djordje Nestorovic
  *
  */
 public class TwitterPoruka {

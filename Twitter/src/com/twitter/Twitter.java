@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import com.twitter.poruke.TwitterPoruka;
 /**
  * Ovo je klasa koja predstavlja Twitter.
- * @author Djole
+ * @author Djordje Nestorovic
  *
  */
 public class Twitter { 
